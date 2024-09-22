@@ -16,6 +16,7 @@ Knowledge Gained
 Task 3 enriched my expertise in building decision tree classifiers for predictive modeling tasks and understanding how demographic and behavioral data influence customer purchasing decisions
 
 Conclusion
+
 This project demonstrates the potential of machine learning models in predicting term deposit subscriptions in direct marketing campaigns. By leveraging predictive analytics, the banking institution can optimize its marketing strategies and enhance customer engagement.
 
 Thank you for reviewing my internship task submission!
